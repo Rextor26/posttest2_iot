@@ -33,6 +33,6 @@ dan beberapa kabel jumper
 ![WhatsApp Imag 2023-04-08 at 10 43 0](https://user-images.githubusercontent.com/94028247/230700245-dbe377e6-6c7d-4ce6-972b-5efe6eb40d58.jpeg)
 
 #Link Video
-
+https://drive.google.com/file/d/16jPWG22Ot7b-1SVvkgzxt7e6_SWkCgmA/view?usp=share_link
 #Link Schematic
 https://wokwi.com/projects/361325651723321345
