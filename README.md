@@ -34,5 +34,7 @@ dan beberapa kabel jumper
 
 #Link Video
 https://drive.google.com/file/d/16jPWG22Ot7b-1SVvkgzxt7e6_SWkCgmA/view?usp=share_link
+
+
 #Link Schematic
 https://wokwi.com/projects/361325651723321345
